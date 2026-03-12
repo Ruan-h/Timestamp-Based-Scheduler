@@ -1,0 +1,9 @@
+A, B, C, D;
+t1, t2, t3, t4;
+8, 9, 1, 4;
+E_1-r1(A) r2(B) w2(B) r3(B) w1(A) c
+E_2-r1(A) r4(A) r3(A) r3(B) r2(A) c
+E_3-w2(A) r1(B) w3(A) r2(D) w1(D) c
+E_4-w4(B) r1(B) r2(B) c r4(A) r3(A) r3(D) w3(D) r4(D) w4(D) r2(C) w1(D) w3(D) c r3(C) r3(B) r2(A) c
+E_5-w4(B) r1(B) r2(B) c r4(A) r3(A) r3(D) w3(D) r4(D) w4(D) r2(C) w1(D) c w3(D) r3(C) r3(B) r2(A) c
+E_6-r1(A) r3(A) w2(A) c r3(C) r2(C) w4(C) c
